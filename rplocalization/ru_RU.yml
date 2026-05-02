@@ -1,0 +1,13 @@
+reload-success: "&aTranslations and configuration are being reloaded..."
+no-permission: "&cInsufficient permissions."
+player-only: "&cThis command is restricted to players."
+no-languages: "&cNo languages available."
+language-changed: "&aLanguage changed to &e{language}&a!"
+placeholder-invalid-format: "&c[invalid_format:{input}]"
+placeholder-no-translation: "&c[no_translation_{lang}_{key}]"
+
+menu-title: "Language Selection"
+item-lore-line-1: "&7Select this to change your"
+item-lore-line-2: "&7chat and interface language."
+selected: "&a&lSelected"
+click: "&eClick to select!"
