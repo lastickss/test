@@ -6,7 +6,7 @@ language-changed: "&aЯзык изменён на &e{language}&a!"
 placeholder-invalid-format: "&c[неверный_формат:{input}]"
 placeholder-no-translation: "&c[нет_перевода_{lang}_{key}]"
 
-menu-title: "Выбор языкаsssssssss"
+menu-title: "Выбор языка"
 item-lore-line-1: "&r&7Выберите это, чтобы изменить"
 item-lore-line-2: "&r&7язык чата и интерфейса."
 item-lore-selected: "&r&a&lВыбрано"
