@@ -1,0 +1,13 @@
+reload-success: "&aПереводы и конфигурация перезагружаются..."
+no-permission: "&cНедостаточно прав."
+player-only: "&cЭта команда доступна только игрокам."
+no-languages: "&cНет доступных языков."
+language-changed: "&aЯзык изменён на &e{language}&a!"
+placeholder-invalid-format: "&c[неверный_формат:{input}]"
+placeholder-no-translation: "&c[нет_перевода_{lang}_{key}]"
+
+menu-title: "Выбор языка"
+item-lore-line-1: "&7Выберите это, чтобы изменить"
+item-lore-line-2: "&7язык чата и интерфейса."
+selected: "&a&lВыбрано"
+click: "&eНажмите, чтобы выбрать!"
